@@ -1,8 +1,4 @@
 Through the wire
 I love my mom
-<<<<<<< HEAD
-
 I love my dad
 Tyler good too
-=======
->>>>>>> refs/remotes/origin/main
